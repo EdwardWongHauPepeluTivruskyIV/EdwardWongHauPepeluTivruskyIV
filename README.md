@@ -1,6 +1,6 @@
 # Radical Edward on the net!
 
-*"High socks are cool! Gotta wear 'em outside!"*
+*"I think I know, I don't think I know, I don't think I think I know. I don't think I think"*
 
 I'm a security researcher. My main focus here is understanding how things work (and how to break them). 
 
