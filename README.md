@@ -9,5 +9,5 @@ I'm a security researcher. My main focus here is understanding how things work (
 *   **Malware Analysis**
 *   **Reverse Engineering**
 
-*See ya cowgirl, someday, somewhere!*
+*... See ya cowgirl, someday, somewhere!*
  
